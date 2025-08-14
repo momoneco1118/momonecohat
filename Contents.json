@@ -15,7 +15,7 @@
 			"FPS" : 1,
 			"Name" : "momoneco",
 			"Author" : "momoneco",
-			"Package" : "None",
+			"Package" : "momoneco",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
