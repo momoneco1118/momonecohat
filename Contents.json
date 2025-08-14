@@ -1,10 +1,38 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "2e9213dcd3cfe7c4821b464cee01bda8",
+				"Address" : "wf10koXsb_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "momoneco",
+			"Author" : "momoneco",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "momoneco",
+			"Format" : "momoneco",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
